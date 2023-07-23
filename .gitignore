@@ -1,0 +1,9 @@
+/compiler/build
+/compiler/generated
+/compiler/ifcc
+/compiler/c
+/compiler/ifcc-test-output
+.vscode
+/tests/ifcc-test-output
+/ifcc-test-output
+/antlr
